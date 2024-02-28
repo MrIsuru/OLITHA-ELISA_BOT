@@ -95,9 +95,9 @@ global.INBOX_BLOCK_MSG = 'BLOCK !!!'
 //👇 Owner React Imoji
 global.OWNER_REACT =  '💀'
 //👇 Song Download Massage 
-global.SONG_DOWN = '*`⬇️ ᴅᴏᴡɴʟᴏᴀᴅɪɴɢ ʏᴏᴜʀ ꜱᴏɴɢ...`*' 
+global.SONG_DOWN = '```⬇️ Downloading Your Song...```' 
 //👇 Song Uplode massage 
-global.SONG_UP = '*`⬆️ ᴜᴘʟᴏᴀᴅɪɴɢ ʏᴏᴜʀ ꜱᴏɴɢ...`*'
+global.SONG_UP = '```⬆️ Uploading Your Song...```'
 //👇 Menu imoji 
 global.MENU_IMOJI = '👸|ℹ️'
 //👇 Your time zone ( use correct time zone )
